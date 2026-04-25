@@ -15,4 +15,4 @@ class Solution(object):
 #second rotation --> first k elements
         self.reverse(nums,0,k-1)
 #third rotation --> rest of the data rotate
-        self.reverse(nums,k,n-1)
+        self.reverse(nums,k,n-1)            #prince
