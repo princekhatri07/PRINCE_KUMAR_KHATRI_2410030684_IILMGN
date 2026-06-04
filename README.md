@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0735-asteroid-collision) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
