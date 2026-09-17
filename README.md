@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0242-valid-anagram) |
 | [0859-buddy-strings](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0859-buddy-strings) |
+| [0917-reverse-only-letters](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0917-reverse-only-letters) |
 ## Stack
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
+| [0917-reverse-only-letters](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0917-reverse-only-letters) |
 ## Hash Table
 |  |
 | ------- |
