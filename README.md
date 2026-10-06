@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0735-asteroid-collision) |
 | [0905-sort-array-by-parity](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
@@ -56,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
