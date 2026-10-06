@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
 | [0917-reverse-only-letters](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0917-reverse-only-letters) |
 ## Hash Table
