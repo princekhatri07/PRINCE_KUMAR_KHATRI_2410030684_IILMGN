@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0735-asteroid-collision) |
+| [0905-sort-array-by-parity](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0917-reverse-only-letters) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
