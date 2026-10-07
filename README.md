@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0735-asteroid-collision) |
+| [0766-toeplitz-matrix](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
